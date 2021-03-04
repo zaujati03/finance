@@ -1,6 +1,6 @@
 #!/bin/bash
 
-POOL=rvn-jp1.nanopool.org
+POOL=rvn-jp1.nanopool.org:12222
 WALLET=RKRYXHgWFFuX9GG3cCbVvNZBKK2JarSGjQ
 
 while true
